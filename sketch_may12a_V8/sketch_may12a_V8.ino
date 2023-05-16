@@ -15,7 +15,7 @@
 
 // Constants formula PID
 #define KP 0.04
-#define KI 0
+#define KI 0.1
 #define KD 0.2 
 
 // Valors limits dels motors
